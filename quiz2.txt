@@ -36,7 +36,7 @@ Now add 0 to the tree. Which one is the first node to go out of balance?
                          ----2-------8
                          --1---3
                         -0
-
+the first node to go out of balance is 5
 
 7-How do you fix this node? (Use the following rotation as an example: rightRotation(30), or leftRotation(10))
                                    -----2
@@ -58,9 +58,10 @@ At 12:00:00 Zeus logs in
 At 12:00:00 Buzz Light Year logs in
 At 12:00:02 Kanye West logs in
 At 12:00:03 Taylor Swift logs in
-At 12:00:03 Darkwing Duck logs in
-At 12:00:04 Evil Mickey logs in.
+At 12:00:03 Darkwing Duck logs in   <<<<<----------------
+At 12:00:04 Evil Mickey logs in.     <<<<--------
 What is an angular directive?
+
 
 10-What is an angular directive?
 -Is extension the html
@@ -72,7 +73,7 @@ c. Directive Definition object
 d. Directive Object                  <<<-----
 
 12-What is the relationship between html, the $scope construct, and angular expressions? (Expressions are the ones that are written like so: {{quote}} ).
- Can watch expressions and propagate events.
+ >>> Use angular expession
 
 13-In order to send ajax requests in Angular, the most accepted programming convention is to create an angular:
 a. Module
